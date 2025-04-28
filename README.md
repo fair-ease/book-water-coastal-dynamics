@@ -17,7 +17,3 @@ Run a local server:
 ```bash
 jupyter book start --execute
 ```
-
-## Structure
-
-to be completed
