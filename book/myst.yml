@@ -2,7 +2,7 @@
 version: 1
 project:
   id: uc511-coastal-water-dynamics
-  title: Coastal Water Dynamics
+  title: Water Coastal Dynamics
   description: Blabla to be completed
   github: https://github.com/fair-ease/book-coastal-water-dynamics
 #  jupyter:
