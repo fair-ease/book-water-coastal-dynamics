@@ -2,7 +2,6 @@
 title: SOURCE
 authors:
   - Simona Simoncelli
-  - 
 ---
 
 
