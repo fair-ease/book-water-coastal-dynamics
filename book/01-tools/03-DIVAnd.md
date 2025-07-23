@@ -55,7 +55,34 @@ In FAIR-EASE, `DIVAnd` has been deployed using the Docker container.
 
 ## Galaxy
 
+Galaxy offers different possibilities to work with `DIVAnd`.     
+The session in Galaxy can be started at https://earth-system.usegalaxy.eu/.
+
+![Galaxy](../assets/figs/galaxy_divand.png)
+
+
+### Terminal
+
+This solution is especially relevant for advanced users, who already have their code written in a script and don't need a sophisticated interface.
+
+### Pluto
+
+The Pluto notebooks provide more interactivity, yet they take some time to start due to the package compilation. 
+
+![Galaxy and Pluto](../assets/figs/galaxy_pluto.png)
+
+### Jupyter
+
+This is the most used solution. Users have access to a set of notebooks designed to explain how to use `DIVAnd`. The notebooks are also available from GitHub: https://github.com/gher-uliege/Diva-Workshops.
+
+![Galaxy](../assets/figs/galaxy_divand_jupyter.png)
+
 
 ## D4Science
 
+D4Science also 
+
+
+The session in Galaxy can be started at 
+https://fair-ease.d4science.org/
 
