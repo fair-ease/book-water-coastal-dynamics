@@ -12,11 +12,11 @@ All these process depend critically on many factors, including river discharge, 
 
 The pilot focuses on the northern Adriatic Sea, with a specific focus on the region where the Po river discharges into the sea.
 
-![North Adriatic Bathymetry](../assets/figs/bathymetry.png)
+![North Adriatic Bathymetry](./assets/figs/bathymetry.png)
 
 ## Tools
 
 Three main tools, described in details in the next sections, are exploited for this use case:
-- Ocean Data View (ODV) and its web-based version (webODV);
-- SOURCE;
-- DIVAnd.
+- [ODV](https://odv.awi.de) (ODV) and its web-based version (webODV) for the analysis and visualisation of data;
+- [SOURCE](https://github.com/fair-ease/Source) for the reprocessing, calibration and evaluation of models and climatologies;
+- [DIVAnd](https://github.com/gher-uliege/DIVAnd.jl) for the gridding of in situ measurements.
