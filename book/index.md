@@ -1,6 +1,16 @@
-# My FAIR-EASE book
+# Coastal water dynamics book
 
-This is a small sample book to give you a feel for how book content is structured.
+The _Coastal Water Dynamics_ pilot is a component of the _Earth & Environmental Dynamics_ use case.
+It strives to study specific processes taking place near river estuaries, for instance:
+- evolution of plankton blooms 
+- transport and fate of nutrients, carbon, and contaminants 
+- mixing between fresh and salty water at the edges of the river plumes.
 
-It uses the new [Jupyterbook version](https://next.jupyterbook.org)
+All these process depend critically on many factors, including river discharge, ocean circulation, meteorological conditions and biogeochemical processes in the water column. 
+
+## Region of interest
+
+The pilot focuses on the northern Adriatic Sea, with a specific focus on the region where the Po river discharges into the sea.
+
+
 
